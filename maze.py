@@ -72,7 +72,7 @@ class Maze():
                 elif self.walls[i][j]:
                     print('█', end='')
                 elif solutions is not None and (i, j) in solutions:
-                    print('\033[92m█\033[0m', end='')
+                    print('*', end='')
                 else:
                     print(' ', end='')
             print()
