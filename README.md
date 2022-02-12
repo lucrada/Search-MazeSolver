@@ -1,2 +1,2 @@
 # Search Problem
-### Solving maze using Depth First Search Algorithm (DFS)
+### Solve maze using Depth First Search Algorithm (DFS)
